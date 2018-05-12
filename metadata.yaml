@@ -22,6 +22,8 @@ creator:
 description: Pinocchio, a wooden puppet full of tricks and mischief, with a talent
   for getting into and out of trouble, wants more than anything else to become a real
   boy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16865#PinocchioThe-Tale-of-a-Puppet
 gutenberg_issued: '2005-10-13'
 gutenberg_type: Text
 identifiers:
