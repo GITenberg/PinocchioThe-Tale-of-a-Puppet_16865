@@ -1,0 +1,40 @@
+_repo: PinocchioThe-Tale-of-a-Puppet_16865
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Carsey, Alice
+    gutenberg_agent_id: '6982'
+    url: http://www.gutenberg.org/2009/agents/6982
+covers:
+- cover_type: archival
+  image_path: 16865-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Collodi, Carlo
+    aliases:
+    - Collodi, C. (Carlo)
+    - Lorenzini, Carlo
+    birthdate: 1826
+    deathdate: 1890
+    gutenberg_agent_id: '268'
+    url: http://www.gutenberg.org/2009/agents/268
+    wikipedia: http://en.wikipedia.org/wiki/Carlo_Collodi
+description: Pinocchio, a wooden puppet full of tricks and mischief, with a talent
+  for getting into and out of trouble, wants more than anything else to become a real
+  boy.
+gutenberg_issued: '2005-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PQ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Pinocchio (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Puppets -- Juvenile fiction'
+title: 'Pinocchio: The Tale of a Puppet'
+url: http://www.gutenberg.org/ebooks/16865
